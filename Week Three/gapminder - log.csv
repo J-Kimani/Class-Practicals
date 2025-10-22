@@ -1,0 +1,195 @@
+country,region,income,income_level,life_exp,co2,co2_change,population,population ln,population ln(1+x)
+Afghanistan,Asia,2.03,Level 1,62.7,0.254,increase,37.2,3.616308761,3.642835516
+Albania,Europe,13.3,Level 3,78.4,1.59,increase,2.88,1.057790294,1.355835154
+Algeria,Africa,11.6,Level 3,76,3.69,increase,42.2,3.742420221,3.765840495
+Andorra,Europe,58.3,Level 4,82.1,6.12,decrease,0.077,-2.563949857,0.074179398
+Angola,Africa,6.93,Level 2,64.6,1.12,decrease,30.8,3.42751469,3.45946629
+Antigua and Barbuda,Americas,21,Level 3,76.2,5.88,increase,0.0963,-2.34028696,0.091940874
+Argentina,Americas,22.7,Level 3,76.5,4.41,decrease,44.4,3.793239469,3.815512105
+Armenia,Europe,12.7,Level 3,75.6,1.89,decrease,2.95,1.08180517,1.373715579
+Australia,Asia,49,Level 4,82.9,16.9,decrease,24.9,3.214867803,3.254242969
+Austria,Europe,55.3,Level 4,82.1,7.75,decrease,8.89,2.18492705,2.291524146
+Azerbaijan,Europe,14.2,Level 3,70.8,3.7,decrease,9.95,2.297572551,2.393339456
+Bahamas,Americas,36.5,Level 4,73.8,4.7,decrease,0.386,-0.95191791,0.326421901
+Bahrain,Asia,46.4,Level 4,77,19.8,decrease,1.57,0.451075619,0.943905899
+Bangladesh,Asia,4.44,Level 2,74.2,0.531,increase,161,5.081404365,5.087596335
+Barbados,Americas,15.7,Level 3,76.5,4.48,decrease,0.287,-1.248273063,0.252313929
+Belarus,Europe,19,Level 3,74,6.93,decrease,9.45,2.246014742,2.346601978
+Belgium,Europe,51.1,Level 4,81.4,8.69,decrease,11.5,2.442347035,2.525728644
+Belize,Americas,7.26,Level 2,74.4,1.5,increase,0.383,-0.95972029,0.324255053
+Benin,Africa,3.16,Level 2,64,0.623,increase,11.5,2.442347035,2.525728644
+Bhutan,Asia,11.3,Level 3,73,1.61,increase,0.754,-0.282362911,0.561898894
+Bolivia,Americas,8.66,Level 3,71.8,1.96,increase,11.4,2.433613355,2.517696473
+Bosnia and Herzegovina,Europe,14.4,Level 3,76.9,6.53,increase,3.32,1.199964783,1.463255402
+Botswana,Africa,16.2,Level 3,61.8,2.96,increase,2.25,0.810930216,1.178654996
+Brazil,Americas,14.7,Level 3,75.7,2.18,increase,209,5.342334252,5.347107531
+Brunei,Asia,60.4,Level 4,74.2,18.5,decrease,0.429,-0.84629836,0.356974899
+Bulgaria,Europe,22.2,Level 3,73.3,6.32,decrease,7.05,1.953027617,2.085672091
+Burkina Faso,Africa,2.12,Level 1,61.3,0.198,increase,19.8,2.985681938,3.034952987
+Burundi,Africa,0.762,Level 1,63.4,0.0467,increase,11.2,2.415913778,2.501435952
+Cambodia,Asia,4.16,Level 2,69.7,0.64,increase,16.2,2.785011242,2.844909384
+Cameroon,Africa,3.71,Level 2,62.6,0.323,increase,25.2,3.226843995,3.265759411
+Canada,Americas,49,Level 4,82.2,15.3,decrease,37.1,3.61361697,3.640214282
+Cape Verde,Africa,6.86,Level 2,73.5,1.16,increase,0.544,-0.608806032,0.434376452
+Central African Republic,Africa,0.933,Level 1,51.5,0.0651,increase,4.67,1.541159072,1.735189118
+Chad,Africa,1.58,Level 1,59.9,0.0656,decrease,15.5,2.740840024,2.803360381
+Chile,Americas,25,Level 4,80.1,4.59,increase,18.7,2.928523524,2.980618636
+China,Asia,15.1,Level 3,77.4,7.06,increase,1430,7.265429723,7.26612878
+Colombia,Americas,14.3,Level 3,80.1,1.96,increase,49.7,3.906004933,3.925925911
+Comoros,Africa,3.07,Level 2,68.5,0.263,increase,0.832,-0.183922838,0.605408266
+"Congo, Dem. Rep.",Africa,1.09,Level 1,64.7,0.0243,decrease,84.1,4.432006567,4.443827036
+"Congo, Rep.",Africa,3.93,Level 2,65,0.617,increase,5.24,1.656321498,1.830980182
+Costa Rica,Americas,20.7,Level 3,80,1.61,decrease,5,1.609437912,1.791759469
+Cote d'Ivoire,Africa,4.85,Level 2,63.6,0.335,decrease,25.1,3.222867846,3.261935314
+Croatia,Europe,28.2,Level 4,78.6,4.48,decrease,4.16,1.425515074,1.640936579
+Cuba,Americas,9.68,Level 3,78.3,2.53,increase,11.3,2.424802726,2.509599262
+Cyprus,Europe,40,Level 4,80.8,6.3,decrease,1.19,0.173953307,0.783901544
+Czech Republic,Europe,39.9,Level 4,79.3,9.94,decrease,10.7,2.370243741,2.459588842
+Denmark,Europe,56.2,Level 4,81.1,6.06,decrease,5.75,1.749199855,1.909542505
+Djibouti,Africa,5.21,Level 2,66.7,0.672,increase,0.959,-0.041864204,0.672434139
+Dominica,Americas,11.5,Level 3,72.3,2.55,increase,0.0716,-2.636660205,0.069152859
+Dominican Republic,Americas,17.7,Level 3,72.9,2.34,increase,10.6,2.360854001,2.451005098
+Ecuador,Americas,11.6,Level 3,76.2,2.46,increase,17.1,2.839078464,2.895911938
+Egypt,Africa,11.4,Level 3,70.7,2.43,decrease,98.4,4.589040804,4.599152114
+El Salvador,Americas,8.62,Level 3,75.6,1.11,increase,6.42,1.859418118,2.004179057
+Equatorial Guinea,Africa,20.4,Level 3,65.8,4.35,decrease,1.31,0.270027137,0.837247525
+Eritrea,Africa,1.56,Level 1,63.4,0.215,increase,3.45,1.238374231,1.492904096
+Estonia,Europe,35.1,Level 4,77.9,14.8,increase,1.32,0.277631737,0.841567186
+Eswatini,Africa,8.52,Level 3,57.8,1.06,decrease,1.14,0.131028262,0.760805829
+Ethiopia,Africa,2.1,Level 1,68.4,0.137,increase,109,4.691347882,4.700480366
+Fiji,Asia,13.8,Level 3,68.3,2.41,increase,0.883,-0.124430078,0.63286625
+Finland,Europe,48,Level 4,81.8,8.52,decrease,5.52,1.70837786,1.874874376
+France,Europe,45.3,Level 4,82.9,5.2,decrease,65,4.17438727,4.189654742
+Gabon,Africa,14.7,Level 3,67.5,2.53,decrease,2.12,0.751416089,1.137833002
+Gambia,Africa,2.16,Level 1,66.4,0.268,increase,2.28,0.824175443,1.187843422
+Georgia,Europe,14.3,Level 3,73.3,2.64,increase,4,1.386294361,1.609437912
+Germany,Europe,53.5,Level 4,81.2,9.14,decrease,83.1,4.420044702,4.432006567
+Ghana,Africa,5.32,Level 2,65.8,0.615,increase,29.8,3.394508394,3.42751469
+Greece,Europe,29.1,Level 4,81,7.03,decrease,10.5,2.351375257,2.442347035
+Grenada,Americas,16.8,Level 3,73.2,2.43,increase,0.111,-2.198225078,0.105260511
+Guatemala,Americas,8.46,Level 3,72.4,1.07,increase,17.2,2.844909384,2.901421594
+Guinea,Africa,2.5,Level 1,60.6,0.256,increase,12.4,2.517696473,2.595254707
+Guinea-Bissau,Africa,1.9,Level 1,60.3,0.181,increase,1.87,0.625938431,1.05431203
+Guyana,Americas,12.5,Level 3,67.1,3.12,increase,0.779,-0.249744233,0.576051409
+Haiti,Americas,3.17,Level 2,63.5,0.27,increase,11.1,2.406945108,2.493205453
+Honduras,Americas,5.68,Level 2,71.9,1.04,decrease,9.59,2.260720889,2.35991016
+"Hong Kong, China",Asia,61.1,Level 4,84.3,5.86,decrease,7.37,1.997417706,2.124653885
+Hungary,Europe,31.1,Level 4,76.3,5.14,decrease,9.71,2.273156282,2.371177884
+Iceland,Europe,56.8,Level 4,84,10.8,decrease,0.337,-1.087672349,0.290428298
+India,Asia,6.52,Level 2,70.5,1.96,increase,1350,7.207859871,7.208600338
+Indonesia,Asia,11.4,Level 3,71.1,2.3,increase,268,5.590986981,5.59471138
+Iran,Asia,13.5,Level 3,77.6,8.81,increase,81.8,4.404277244,4.416428061
+Iraq,Asia,10.6,Level 3,73.3,5.32,increase,38.4,3.64805746,3.673765816
+Ireland,Europe,83.7,Level 4,82,8.09,decrease,4.82,1.572773928,1.761300262
+Israel,Asia,39.9,Level 4,83,7.67,decrease,8.38,2.125847914,2.238579763
+Italy,Europe,42,Level 4,83.1,5.58,decrease,60.6,4.104294893,4.120661871
+Jamaica,Americas,9.74,Level 3,76.3,2.79,decrease,2.93,1.075002423,1.368639426
+Japan,Asia,41.8,Level 4,84.8,9.14,decrease,127,4.844187086,4.852030264
+Jordan,Asia,10,Level 3,77.9,2.42,decrease,9.97,2.299580584,2.395164274
+Kazakhstan,Asia,25.5,Level 4,71.7,17.6,increase,18.3,2.90690106,2.960105096
+Kenya,Africa,4.34,Level 2,66.1,0.36,increase,51.4,3.939638172,3.958906591
+Kiribati,Asia,2.29,Level 1,59.3,0.601,decrease,0.116,-2.154165088,0.109750864
+Kuwait,Asia,50.5,Level 4,81.6,23.7,decrease,4.14,1.420695788,1.637053079
+Kyrgyz Republic,Asia,5.13,Level 2,73.3,1.6,increase,6.3,1.840549633,1.987874348
+Lao,Asia,7.59,Level 2,68.6,2.74,increase,7.06,1.954445052,2.086913557
+Latvia,Europe,30.1,Level 4,75.8,3.73,decrease,1.93,0.657520003,1.075002423
+Lebanon,Asia,15.7,Level 3,76.2,3.53,decrease,6.86,1.925707442,2.061786606
+Lesotho,Africa,2.62,Level 1,51.4,1.26,increase,2.11,0.746687947,1.134622726
+Liberia,Africa,1.54,Level 1,65.7,0.324,increase,4.82,1.572773928,1.761300262
+Libya,Africa,15,Level 3,75.7,8.09,decrease,6.68,1.899117988,2.038619547
+Lithuania,Europe,35.4,Level 4,76.1,4.84,increase,2.8,1.029619417,1.335001067
+Luxembourg,Europe,115,Level 4,82.9,15.9,decrease,0.604,-0.504181081,0.472500509
+Madagascar,Africa,1.59,Level 1,65.1,0.163,increase,26.3,3.269568939,3.306886702
+Malawi,Africa,1.5,Level 1,64.1,0.0762,decrease,18.1,2.895911938,2.949688335
+Malaysia,Asia,27.6,Level 4,75.2,8.08,increase,31.5,3.449987546,3.481240089
+Maldives,Asia,18.8,Level 3,79,2.96,increase,0.516,-0.661648514,0.416075287
+Mali,Africa,2.28,Level 1,61.2,0.187,increase,19.1,2.949688335,3.000719815
+Malta,Europe,43.3,Level 4,82.5,3.61,decrease,0.439,-0.823255866,0.363948428
+Marshall Islands,Asia,3.82,Level 2,65.3,2.58,increase,0.0584,-2.840439389,0.056758334
+Mauritania,Africa,5.19,Level 2,70.5,0.605,increase,4.4,1.481604541,1.686398954
+Mauritius,Africa,22.2,Level 3,75.3,3.83,increase,1.27,0.2390169,0.819779831
+Mexico,Americas,19.9,Level 3,75.5,3.79,decrease,126,4.836281907,4.844187086
+"Micronesia, Fed. Sts.",Asia,3.46,Level 2,64.1,1.34,increase,0.113,-2.18036746,0.107059072
+Moldova,Europe,12.4,Level 3,74,1.27,increase,4.05,1.398716881,1.619388243
+Mongolia,Asia,12,Level 3,68,8.88,increase,3.17,1.153731588,1.427916036
+Montenegro,Europe,20.7,Level 3,75.6,3.2,decrease,0.628,-0.465215113,0.487352268
+Morocco,Africa,7.45,Level 2,73.1,1.84,increase,36,3.583518938,3.610917913
+Mozambique,Africa,1.29,Level 1,57.9,0.281,increase,29.5,3.384390263,3.417726684
+Myanmar,Asia,4.47,Level 2,69.1,0.491,increase,53.7,3.983413002,4.001863709
+Namibia,Africa,10.1,Level 3,64.7,1.75,increase,2.45,0.896088025,1.238374231
+Nauru,Asia,13.6,Level 3,63.2,4.71,increase,0.0107,-4.537511538,0.01064316
+Nepal,Asia,3.77,Level 2,70.8,0.337,increase,28.1,3.335769576,3.370738174
+Netherlands,Europe,56.1,Level 4,81.7,9.48,decrease,17.1,2.839078464,2.895911938
+New Zealand,Asia,42.9,Level 4,81.8,7.34,decrease,4.74,1.556037136,1.74745921
+Nicaragua,Americas,5.73,Level 2,75.2,0.862,increase,6.47,1.867176109,2.010894999
+Niger,Africa,1.2,Level 1,62,0.103,increase,22.4,3.109060959,3.152736022
+Nigeria,Africa,5.16,Level 2,63.8,0.65,increase,196,5.278114659,5.283203729
+North Korea,Asia,1.86,Level 1,72.9,1.18,decrease,25.5,3.238678452,3.277144733
+North Macedonia,Europe,16.1,Level 3,74.3,3.49,decrease,2.08,0.732367894,1.124929597
+Norway,Europe,64.3,Level 4,82.8,8.31,decrease,5.34,1.675225653,1.846878768
+Oman,Asia,32.6,Level 4,73.6,13.9,decrease,4.83,1.574846468,1.763017
+Pakistan,Asia,4.74,Level 2,65.5,1.05,increase,212,5.356586275,5.361292166
+Palau,Asia,17.6,Level 3,67.4,13.2,increase,0.0179,-4.022954566,0.017741681
+Palestine,Asia,6.32,Level 2,74.7,0.661,increase,4.86,1.581038438,1.768149604
+Panama,Americas,31,Level 4,79.9,2.62,increase,4.18,1.430311247,1.644805056
+Papua New Guinea,Asia,4.19,Level 2,64.4,0.911,increase,8.61,2.152924318,2.262804223
+Paraguay,Americas,12.8,Level 3,76.5,1.07,increase,6.96,1.940179474,2.074429
+Peru,Americas,12.8,Level 3,80,1.74,increase,32,3.465735903,3.496507561
+Philippines,Asia,8.52,Level 3,71.6,1.27,increase,107,4.672828834,4.682131227
+Poland,Europe,31.7,Level 4,78,9.07,increase,37.9,3.634951112,3.660994251
+Portugal,Europe,34,Level 4,81.7,4.97,decrease,10.3,2.332143895,2.424802726
+Qatar,Asia,91,Level 4,76.1,38,decrease,2.78,1.022450928,1.32972401
+Romania,Europe,28.5,Level 4,75.5,3.8,decrease,19.5,2.970414466,3.020424886
+Russia,Europe,26.7,Level 4,73,11.7,increase,146,4.983606622,4.990432587
+Rwanda,Africa,2.09,Level 1,68.3,0.0913,increase,12.3,2.509599262,2.587764035
+Samoa,Asia,6.39,Level 2,70.4,1.32,increase,0.196,-1.62964062,0.178982656
+Sao Tome and Principe,Africa,3.99,Level 2,70.7,0.587,increase,0.211,-1.555897146,0.191446465
+Saudi Arabia,Asia,47.6,Level 4,74.3,18.4,increase,33.7,3.517497837,3.546739687
+Senegal,Africa,3.31,Level 2,68,0.739,increase,15.9,2.766319109,2.827313622
+Serbia,Europe,17.5,Level 3,75.6,5.17,decrease,8.8,2.174751721,2.282382386
+Seychelles,Africa,27.5,Level 4,73.5,6.75,decrease,0.0971,-2.332013904,0.092670335
+Sierra Leone,Africa,1.66,Level 1,61.2,0.141,increase,7.65,2.034705648,2.157559321
+Singapore,Asia,98.2,Level 4,84.7,7.1,decrease,5.76,1.750937475,1.91102289
+Slovak Republic,Europe,31.2,Level 4,77.5,6.61,decrease,5.45,1.695615609,1.864080131
+Slovenia,Europe,38,Level 4,81.4,6.95,decrease,2.08,0.732367894,1.124929597
+Solomon Islands,Asia,2.7,Level 2,59,0.273,decrease,0.653,-0.42617815,0.502591819
+Somalia,Africa,1.13,Level 1,57.9,0.0466,decrease,15,2.708050201,2.772588722
+South Africa,Africa,13.9,Level 3,64.4,8.1,decrease,57.8,4.056988776,4.074141855
+South Korea,Asia,42,Level 4,82.9,12.9,increase,51.2,3.935739532,3.955082495
+South Sudan,Africa,2.01,Level 1,63,0.171,increase,11,2.397895273,2.48490665
+Spain,Europe,40.3,Level 4,83.1,5.75,decrease,46.7,3.843744165,3.864931398
+Sri Lanka,Asia,12.9,Level 3,77.2,1.1,increase,21.2,3.054001182,3.100092289
+St. Kitts and Nevis,Americas,27.5,Level 4,72.1,4.62,increase,0.0524,-2.948848688,0.05107327
+St. Lucia,Americas,15.3,Level 3,75.1,2.31,decrease,0.182,-1.703748592,0.167207919
+St. Vincent and the Grenadines,Americas,12.5,Level 3,72.8,2.03,decrease,0.11,-2.207274913,0.104360015
+Sudan,Africa,4.37,Level 2,70.1,0.504,increase,41.8,3.73289634,3.756538103
+Suriname,Americas,19,Level 3,72.6,3.1,decrease,0.576,-0.551647618,0.454889991
+Sweden,Europe,52.3,Level 4,82.7,4.12,decrease,9.97,2.299580584,2.395164274
+Switzerland,Europe,70.6,Level 4,83.9,4.33,decrease,8.53,2.143589362,2.254444718
+Syria,Asia,3.89,Level 2,73.2,1.67,decrease,16.9,2.827313622,2.884800713
+Taiwan,Asia,51.9,Level 4,80.2,11.6,increase,23.7,3.165475048,3.206803244
+Tajikistan,Asia,3.42,Level 2,69.2,0.603,increase,9.1,2.208274414,2.312535424
+Tanzania,Africa,2.59,Level 1,66.7,0.222,increase,56.3,4.030694535,4.048300624
+Thailand,Asia,18.1,Level 3,78.3,4.15,increase,69.4,4.239886868,4.254193263
+Timor-Leste,Asia,3.09,Level 2,70.5,0.412,increase,1.27,0.2390169,0.819779831
+Togo,Africa,2.06,Level 1,64.5,0.434,increase,7.89,2.065596135,2.18492705
+Tonga,Asia,6.41,Level 2,72.9,1.31,increase,0.103,-2.273026291,0.09803374
+Trinidad and Tobago,Americas,26.3,Level 4,74.8,31.3,decrease,1.39,0.329303747,0.871293366
+Tunisia,Africa,11.4,Level 3,77.5,2.73,increase,11.6,2.451005098,2.533696814
+Turkey,Europe,28.3,Level 4,78.1,5.2,increase,82.3,4.410371108,4.422448549
+Turkmenistan,Asia,14.8,Level 3,70.6,13.7,increase,5.85,1.766441661,1.924248652
+Tuvalu,Asia,3.95,Level 2,67.8,1.01,decrease,0.0115,-4.465408244,0.011434378
+Uganda,Africa,2.13,Level 1,65.7,0.135,increase,42.7,3.75419892,3.777348102
+Ukraine,Europe,12.3,Level 3,73.9,5.09,decrease,44.2,3.788724789,3.811097087
+United Arab Emirates,Asia,67,Level 4,73.7,21.4,decrease,9.63,2.264883226,2.363680192
+United Kingdom,Europe,46.9,Level 4,81,5.65,decrease,67.1,4.206184044,4.220977213
+United States,Americas,61.6,Level 4,79,16.6,decrease,327,5.789960171,5.793013608
+Uruguay,Americas,23,Level 3,77.5,2.01,decrease,3.45,1.238374231,1.492904096
+Uzbekistan,Asia,7.08,Level 2,68.1,2.81,decrease,32.5,3.481240089,3.511545439
+Vanuatu,Asia,3.09,Level 2,65.3,0.529,increase,0.293,-1.22758267,0.2569651
+Venezuela,Americas,12.4,Level 3,75.4,4.81,decrease,28.9,3.363841595,3.39785848
+Vietnam,Asia,7.59,Level 2,74.3,2.16,increase,95.5,4.559126247,4.569543008
+Yemen,Asia,2.66,Level 2,66.1,0.356,decrease,28.5,3.349904087,3.384390263
+Zambia,Africa,3.52,Level 2,62.5,0.302,increase,17.4,2.856470206,2.912350665
+Zimbabwe,Africa,3.92,Level 2,60.6,0.85,increase,14.4,2.667228207,2.734367509
+,,,,,,,0,#NUM!,0
